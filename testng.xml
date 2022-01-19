@@ -6,9 +6,10 @@
 
 		<classes>
 			<class name="automation.AutomationDemo">
-				<methods>
+				<!-- <methods>
 					<include name="windowHandling"/>
-				</methods>
+				</methods> -->
+	<!-- develop code -->
 			</class>
 		</classes>
 	</test>
